@@ -14,9 +14,8 @@ import os
 import subprocess
 import tarfile
 import tempfile
-from pathlib import Path
-
 import tomllib
+from pathlib import Path
 
 
 class ProjectSettings:
